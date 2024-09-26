@@ -1,7 +1,7 @@
 ## Hi, I'm Maria! 👋
 
 I'm in my third year of Electrical and Computer engineering ('26 + Coop) at the [University of Toronto](https://www.ece.utoronto.ca) with a passion for energy and software solutions.
-### Looking for Summer 2025 opportunities to innovate and make an impact in tech, finance, and power systems. Let's connect!
+##### Looking for Summer 2025 opportunities to innovate and make an impact in tech, finance, and power systems. Let's connect!
 
 Check out my portfolio to see more of what I’ve worked on:
 ```
