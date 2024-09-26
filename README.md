@@ -12,7 +12,7 @@ Check out my portfolio to see more of what I’ve worked on:
 - Financial Projections & Risk Management (FactSet)
 ```
 
-- 📫 How to reach me: 
+- 📫 How to reach me: maria.kahale@mail.utoronto.ca
 <!--
 **mariakahale/mariakahale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
