@@ -13,6 +13,7 @@ Check out my portfolio to see more of what I’ve worked on:
 ```
 
 - 📫 How to reach me: maria.kahale@mail.utoronto.ca
+##### Resume available upon request
 <!--
 **mariakahale/mariakahale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
