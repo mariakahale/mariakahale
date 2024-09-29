@@ -8,7 +8,7 @@ Check out my portfolio below to see more of what I’ve worked on:
 - Battery Management Systems
 - Renewable Energy & EV Projects
 - Python, C/C++, SQL for Programming, Data Analysis & Automation
-- AutoCAD Certification Prep
+- AutoCAD Certification Prep and Introductory Solidworks Training
 - Financial Projections & Risk Management (FactSet)
 ```
 
