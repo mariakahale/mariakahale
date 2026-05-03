@@ -6,6 +6,7 @@ I'm in my third year of Electrical and Computer engineering ('26 + Coop) at the 
 Check out my portfolio below to see more of what I’ve worked on:
 ```
 - Battery Management Systems
+- Logo Image Classification with Deep Learning (CNN)
 - Renewable Energy & EV Projects
 - Python, C/C++, SQL for Programming, Data Analysis & Automation
 - AutoCAD Certification Prep and Introductory Solidworks Training
