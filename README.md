@@ -11,6 +11,7 @@ Check out my portfolio below to see more of what I’ve worked on:
 - Python, C/C++, SQL for Programming, Data Analysis & Automation
 - AutoCAD Certification Prep and Introductory Solidworks Training
 - Financial Projections & Risk Management (FactSet)
+- Python YT Video editor (automatically cuts silences)
 ```
 
 - 📫 How to reach me: maria.kahale@mail.utoronto.ca
